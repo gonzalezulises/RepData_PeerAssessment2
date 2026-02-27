@@ -1,0 +1,13 @@
+# Data files
+StormData.csv.bz2
+*.csv
+
+# R artifacts
+.Rhistory
+.Rdata
+.Rproj.user/
+*_cache/
+*_files/
+
+# OS
+.DS_Store
