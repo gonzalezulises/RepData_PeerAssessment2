@@ -7,7 +7,6 @@ StormData.csv.bz2
 .Rdata
 .Rproj.user/
 *_cache/
-*_files/
 
 # OS
 .DS_Store
